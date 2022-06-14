@@ -1,0 +1,18 @@
+dentro del DOM,se encuentran diferentes estructuras:
+
+header = es donde se ubica la navar (opcional), el logo y login de la paginas o iconos de compras, login, etc
+
+el footer = donde figura el copyright, licencias, terminos de uso, logo de la empresa que lo hizo, soporte, privacidad
+elemento main y atributo role
+al momento de cargar una imagen con img el alt: "nombre de la imagen", es lo que va a aparecer cuando nos figura se nos
+rompe el enlace.
+
+herramientas> git hub copilote
+
+
+
+PARTE 2
+CSS
+se puede aplicar de varias formas, la mejor manera es creando un archivo externo, enlazandolo por medio de un link en el head
+
+
